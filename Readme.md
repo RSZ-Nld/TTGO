@@ -6,6 +6,8 @@ SW MW LW and FM Radio
 ### Photos
 ### “Top Pcb”
 ![Photo 1]( https://github.com/Vwbeetle2/TTGO/blob/main/Pcb.JPG)
+### “Diagram”
+![Photo 0]( https://github.com/Vwbeetle2/TTGO/blob/main/Diagram.JPG)
 ![Photo 2]( https://github.com/Vwbeetle2/TTGO/blob/main/1.jpg)
 ![Photo 3]( https://github.com/Vwbeetle2/TTGO/blob/main/2.jpg)
 ![Photo 4]( https://github.com/Vwbeetle2/TTGO/blob/main/3.jpg)
