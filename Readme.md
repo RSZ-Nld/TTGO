@@ -18,7 +18,7 @@ TTGO code is here: https://github.com/RSZ-Nld/TTGO/blob/main/Code.zip
 
 If you have a problem then change the display lib with this one: https://github.com/RSZ-Nld/TTGO/blob/main/TFT_eSPI.zip
 
-Bin file is here : https://github.com/RSZ-Nld/TTGO/blob/main/Si473x_Rotary_Encoder_Interface_V3.ino.ttgo-t1.zip
+Bin file is here : https://github.com/RSZ-Nld/TTGO/blob/main/Si4735_Radio_TTGO.zip
 
 
 Gerbers are here:  
