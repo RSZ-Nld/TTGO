@@ -19,6 +19,7 @@ TTGO code is here: https://github.com/RSZ-Nld/TTGO/blob/main/Code.zip
 If you have a problem then change the display lib with this one: https://github.com/RSZ-Nld/TTGO/blob/main/TFT_eSPI.zip
 
 Bin file is here : https://github.com/RSZ-Nld/TTGO/blob/main/Si4735_Radio_TTGO.zip
+How to flash the Bin file:  https://github.com/RSZ-Nld/TTGO/blob/main/TTGO-bin.doc
 
 
 Gerbers are here:  
