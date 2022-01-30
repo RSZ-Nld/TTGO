@@ -1,9 +1,11 @@
 Made a own pcb with si4735 and TTGO esp32.
 ## About the original project
 Thiago has made this working, thx!
-Soft from PE0MGB/PU2CLR, mod by RXavier.
+Soft from PE0MGB/PU2CLR, mod by RXavier, now on V4.1.
 SW MW LW and FM Radio 
 ### Photos
+### "V4.1 firmware"
+![Photo 10]    ( https://github.com/RSZ-Nld/TTGO/blob/main/010.jpg)
 ### “Top Pcb”
 ![Photo 1]( https://github.com/Vwbeetle2/TTGO/blob/main/Pcb.JPG)
 ### “Diagram”
