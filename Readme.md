@@ -20,6 +20,8 @@ If you have a problem then change the display lib with this one: https://github.
 
 Bin file is here : https://github.com/RSZ-Nld/TTGO/blob/main/Si4735_Radio_TTGO.zip
 
+New bin file is here V4.1 : https://github.com/RSZ-Nld/TTGO/blob/main/Si473x_Rotary_Encoder_Interface_V4.1.ino.zip
+
 How to flash the Bin file:  https://github.com/RSZ-Nld/TTGO/blob/main/TTGO-bin.doc
 
 
